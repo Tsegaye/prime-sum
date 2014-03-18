@@ -1,4 +1,4 @@
 prime-sum
 =========
 
-Prime-sum below 2 million
+Prime sum off all primes below 2 million
